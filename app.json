@@ -1,0 +1,25 @@
+{
+    "name": "kkctoy",
+    "description": "kkctoy",
+    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "env": {
+        "AA": {
+            "description": "10",
+            "value": "11"
+        },
+        "AUUID": {
+            "description": "9",
+            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        },
+        "CADDYIndexPage": {
+            "description": "8",
+            "value": "http://mirror.umd.edu/"
+        },
+        "ParameterSSENCYPT": {
+            "description": "7",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
